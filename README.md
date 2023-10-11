@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Remania, im a fullstack developer with knowledge in HTML, CSS, Javascript, Bootstrap, JQuery, NodeJS, ExpressJS, MongoDB, Python, Flask, MySQL, SQLServer, PostgreSQL, React, Typescript, Java
+- 👋 Hi, I’m @Remania, im a fullstack developer with knowledge in HTML, CSS, Javascript, Bootstrap, JQuery, NodeJS, ExpressJS, MongoDB, Python, Flask, MySQL, SQLServer, PostgreSQL, React, Typescript, Java, PHP, Wordpress, Laravel
 - 👀 I’m interested in programming in general like Frontend, Backend, Database Management, etc.
 - 🌱 I’m currently learning Java and Kotlin
 - 💞️ I’m looking to collaborate on fullstack projects
