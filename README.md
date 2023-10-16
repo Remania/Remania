@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming in general like Frontend, Backend, Database Management, etc.
 - 🌱 I’m currently learning Java and Kotlin
 - 💞️ I’m looking to collaborate on fullstack projects
-- 📫 My portfolio [here](https://remaniaportfolio.netlify.app/)
 
 <!---
 Remania/Remania is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
